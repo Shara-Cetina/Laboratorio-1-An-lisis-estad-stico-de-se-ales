@@ -1,4 +1,4 @@
-# Laboratorio 1 Análisis estadístico de señales
+# Laboratorio No.1 "Análisis estadístico de señales"
 ## Shara Cetina y Juanita Gómez
 ## Descripción
 Este proyecto contiene el código para analizar y caracterizar una señal biomédica en función de parámetros estadísticos, empleando funciones aritméticas y comandos específicos de un entorno de
