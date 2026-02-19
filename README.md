@@ -36,8 +36,10 @@ Con ayuda de Spyder, una multiplataforma que nos posibilita programar en python,
 <img width="1162" height="862" alt="jhjh" src="https://github.com/user-attachments/assets/50da1776-2aef-460e-a05f-00ffe21b9408" />
 
 ## Parte C
-<img width="1024" height="768" alt="PARTE B" src="https://github.com/user-attachments/assets/50fd5325-d73e-4ed2-94c6-0eb55baa63d5" />
-<img width="1103" height="708" alt="2b" src="https://github.com/user-attachments/assets/f16d3a0f-53c5-43d6-8f27-c08964289e44" />
+
+<img width="1024" height="768" alt="PARTE C" src="https://github.com/user-attachments/assets/3f33d883-195e-4a65-99b9-e269b5ffb32d" />
+
+<img width="1024" height="768" alt="PARTE 2C" src="https://github.com/user-attachments/assets/f7b51cfd-71f5-4769-b33b-fc8124c30b95" />
 
 ## Resultados
 Al realizar el paso a paso de los diagramas de flujo enunciados anteriormente, se obtiene:
