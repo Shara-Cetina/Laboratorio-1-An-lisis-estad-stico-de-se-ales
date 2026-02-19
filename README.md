@@ -22,11 +22,12 @@ Con ayuda de Spyder, una multiplataforma que nos posibilita programar en python,
 
 <img width="1024" height="768" alt="3" src="https://github.com/user-attachments/assets/63c10fc7-996d-470d-81f0-a036ee70bcfa" />
 
-<img width="1024" height="768" alt="4" src="https://github.com/user-attachments/assets/658406d6-ea53-4e7b-b77d-d6cd61adc66f" />
+<img width="1024" height="768" alt="4" src="https://github.com/user-attachments/assets/04d3af76-fa40-4c77-baf0-38d7d79686df" />
 
-<img width="1024" height="768" alt="5" src="https://github.com/user-attachments/assets/6e095d92-7dfc-4556-a1e5-c87661f9f3be" />
+<img width="1024" height="768" alt="5" src="https://github.com/user-attachments/assets/5e557de7-6f3a-4bb4-bd55-1c0000f30597" />
 
-<img width="1024" height="768" alt="6" src="https://github.com/user-attachments/assets/c798d786-fa98-4491-8260-e5ced81cad20" />
+<img width="1024" height="768" alt="Parte A" src="https://github.com/user-attachments/assets/658c43d5-1415-4eab-8c72-3a6a50c483ab" />
+
 
 
 ## Parte B
@@ -35,7 +36,8 @@ Con ayuda de Spyder, una multiplataforma que nos posibilita programar en python,
 
 <img width="1024" height="768" alt="2" src="https://github.com/user-attachments/assets/0f0327fb-3709-4597-9c7f-f318782dc1fe" />
 
-<img width="1024" height="768" alt="3" src="https://github.com/user-attachments/assets/662d41f1-b813-431a-a637-32757202da17" />
+<img width="1024" height="458" alt="35" src="https://github.com/user-attachments/assets/4ec97c54-18d4-400d-a1d3-5c43feb12e61" />
+
 
 
 ## Parte C
