@@ -22,7 +22,7 @@ Con ayuda de Spyder, una multiplataforma que nos posibilita programar en python,
 
 <img width="1024" height="768" alt="3" src="https://github.com/user-attachments/assets/63c10fc7-996d-470d-81f0-a036ee70bcfa" />
 
-<img width="1024" height="768" alt="4" src="https://github.com/user-attachments/assets/04d3af76-fa40-4c77-baf0-38d7d79686df" />
+<img width="1024" height="768" alt="Parte A (1)" src="https://github.com/user-attachments/assets/86214a4a-e6d7-4d40-8b18-ef00b0db51c7" />
 
 <img width="1024" height="768" alt="5" src="https://github.com/user-attachments/assets/5e557de7-6f3a-4bb4-bd55-1c0000f30597" />
 
