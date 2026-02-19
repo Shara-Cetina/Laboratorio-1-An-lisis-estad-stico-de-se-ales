@@ -31,7 +31,7 @@ Al realizar el paso a paso de los diagramas de flujo enunciados anteriormente, s
 
 
 ## Discusión
-__¿Los valores estadísticos calculados sobre la señal sintética son exactamente iguales a los obtenidos a partir de la señal real? ¿Por qué?__
+**¿Los valores estadísticos calculados sobre la señal sintética son exactamente iguales a los obtenidos a partir de la señal real? ¿Por qué?**
 <p align="justify">
 Los valores estadísticos calculados sobre la señal sintética no son exactamente iguales a los obtenidos a partir de la señal real, debido a que estas ultimas presentan ruidos fisiológicos o ambientales como el movimiento del paciente, la interferencia eléctrica, o el contacto de electrodos, por otro lado, la señal sintética se simula en un entorno ideal, sin ruido, con un ritmo cardiaco normal sin alteraciones. Además, existen diferencias en la frecuencia cardíaca, lo que modifica la distribución temporal de los complejos QRS. 
 Por otra parte, se observan diferencias importantes en la media y la desviación estándar, lo que puede demostrar que las señales no están centradas o escaladas de la misma forma. Por último, la señal real proviene de un paciente sometido a 4 fármacos que prolongan el intervalo QT (según la investigación en PhysioNet), lo que altera la morfología del ECG y afecta parámetros como la asimetría y la curtosis.
