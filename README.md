@@ -28,12 +28,52 @@ Con ayuda de Spyder, una multiplataforma que nos posibilita programar en python,
 
 ## Resultados
 Al realizar el paso a paso de los diagramas de flujo enunciados anteriormente, se obtiene:
-* Señal obtenida de la plataforma PhysioNet
-* Histogramas
-* Datos calculados manualmente y con las funciones predeterminadas
-* Señal simulada
-* Histograma de señal simulada
-* Señal con ruido
+* **Señal obtenida de la plataforma PhysioNet:**
+  
+![p](https://github.com/user-attachments/assets/88fef053-8803-4b59-839b-b0e24162afe2)
+* **Histogramas:**
+
+![p1](https://github.com/user-attachments/assets/f6dd0c00-b5f3-4adf-b2db-3a9cc264baff)
+
+![p2](https://github.com/user-attachments/assets/feea9479-6cce-4636-8b5b-63a88eadcd51)
+
+ 
+* **Datos calculados manualmente y con las funciones predeterminadas:**
+
+![WhatsApp Image 2026-02-18 at 23 58 06](https://github.com/user-attachments/assets/80c9f9dc-3776-46f5-ac8f-2fe6daf7d7b8)
+
+![nb](https://github.com/user-attachments/assets/c4f9914f-a897-4e08-aa7e-6df0da36c6e7) 
+
+![kc](https://github.com/user-attachments/assets/8951eee0-df06-450c-956f-0105d3489dbd)
+ 
+ 
+* **Señal simulada:**
+
+![p3](https://github.com/user-attachments/assets/139fbacf-4926-4168-b882-bf201e807174)
+
+ 
+* **Histograma de señal simulada:**
+  
+![p5](https://github.com/user-attachments/assets/dfff1bf0-41dc-4df0-9684-d7abec40d4ea)
+
+![p4](https://github.com/user-attachments/assets/02e0296d-d619-4cfa-9a05-e5207a145ec5)
+
+
+* **Señal con ruido:**
+
+- Gaussiano
+  
+![p6](https://github.com/user-attachments/assets/cbe6366f-2c8e-45be-ae42-da2888b5e5a4)
+
+  - Impulso
+
+![p7](https://github.com/user-attachments/assets/d7ed6c73-a348-4b92-b8a0-aa9ea8bff2b3)
+
+
+  - Artefacto
+
+![p8](https://github.com/user-attachments/assets/495171f4-3406-4e2b-9715-f4b83efb5b9f)
+
 
 
 ## Discusión
